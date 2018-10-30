@@ -8,3 +8,4 @@ Javascript
 Java
 Ruby
 Brainfuck - the most difficult language
+Go - the language developed by Google
